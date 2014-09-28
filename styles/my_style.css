@@ -1,0 +1,26 @@
+#controls{
+	clear:both;
+}
+#btnDeal, #btnStick, #btnRestart {
+/*	width:350px; */
+	display:inline;
+	float:left;
+}
+#my_hand{
+	clear:both;
+	border: 1px solid gray;
+	height: 250px;
+	width: 835px;
+}
+
+h3 {
+	display: inline;
+	padding-right: 40px;
+}
+.current_hand{
+	float:left;
+}
+
+#check {
+	position:absolute;
+}
